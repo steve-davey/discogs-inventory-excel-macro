@@ -1,0 +1,295 @@
+Sub Macro4()
+'
+' Macro4 Macro
+'
+ Selection.Replace What:="Ã¤", Replacement:="ä", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+   
+ Selection.Replace What:="Ã¼", Replacement:="ü", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Ã¦", Replacement:="æ", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Ã­", Replacement:="í", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Å™Ã¡", Replacement:="rá", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Â·", Replacement:="·", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Ã–", Replacement:="Ö", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Å¯", Replacement:="u", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Ã½", Replacement:="ý", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Ã§", Replacement:="ç", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Ã©", Replacement:="é", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Ã«", Replacement:="ë", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Î¼Ï€", Replacement:="µp (Mauro Picotto)", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Ã¶", Replacement:="ö", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Ã»", Replacement:="u", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="â€”", Replacement:=",", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Ã´", Replacement:="ô", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Ã¸", Replacement:="ø", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Å", Replacement:="o", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="â€¢", Replacement:="•", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Ãˆ", Replacement:="È", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Ã³", Replacement:="ó", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="é¹…å¤©", Replacement:="Swan Records (China)", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                    Selection.Replace What:="(2)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(3)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(4)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(5)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(6)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(7)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(8)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(9)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(10)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(11)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(12)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(13)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(14)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(15)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(16)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(17)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(18)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(19)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(20)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(21)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(22)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(23)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(24)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(25)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(26)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(27)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(28)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(29)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(30)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(31)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(no country)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+                            Selection.Replace What:="(no year)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+  
+  Selection.Replace What:="(NM or M-)", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+  
+  Selection.Replace What:="Very Good Plus (VG+)", Replacement:="Ex", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Very Good (VG)", Replacement:="VG", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Good Plus (G+)", Replacement:="Good+", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Good (G)", Replacement:="Good", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Fair (F)", Replacement:="Fair", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:="Poor (P)", Replacement:="Poor", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:=", Album", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+            Selection.Replace What:=", Single", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False
+
+
+    Columns("O:O").Select
+    Selection.Cut
+    Columns("T:T").Select
+    ActiveSheet.Paste
+    Columns("O:O").Select
+    Selection.Delete Shift:=xlToLeft
+    Columns("N:N").Select
+    Selection.Delete Shift:=xlToLeft
+    Columns("R:R").Select
+    Selection.TextToColumns Destination:=Range("R1"), DataType:=xlDelimited, _
+        TextQualifier:=xlDoubleQuote, ConsecutiveDelimiter:=False, Tab:=False, _
+        Semicolon:=False, Comma:=False, Space:=False, Other:=True, OtherChar _
+        :="|", FieldInfo:=Array(Array(1, 1), Array(2, 1), Array(3, 1), Array(4, 1), Array(5, _
+        1), Array(6, 1), Array(7, 1), Array(8, 1), Array(9, 1), Array(10, 1), Array(11, 1), Array(12 _
+        , 1), Array(13, 1), Array(14, 1), Array(15, 1), Array(16, 1), Array(17, 1), Array(18, 1), _
+        Array(19, 1)), TrailingMinusNumbers:=True
+    Range("Q1").Select
+    Range(Selection, Selection.End(xlToRight)).Select
+    Selection.Copy
+    Windows("double-happiness-inventory-20220816-0639.csv").Activate
+    Range("R1").Select
+    ActiveSheet.Paste
+    ActiveWindow.ScrollColumn = 2
+    ActiveWindow.ScrollColumn = 3
+    ActiveWindow.ScrollColumn = 4
+    ActiveWindow.ScrollColumn = 5
+    ActiveWindow.ScrollColumn = 6
+    ActiveWindow.ScrollColumn = 7
+    ActiveWindow.ScrollColumn = 8
+    Columns("AG:AG").Select
+    Selection.ColumnWidth = 15
+    Application.CutCopyMode = False
+    Selection.NumberFormat = "0"
+    ActiveWindow.ScrollColumn = 6
+    ActiveWindow.ScrollColumn = 5
+    ActiveWindow.ScrollColumn = 4
+    ActiveWindow.ScrollColumn = 3
+    ActiveWindow.ScrollColumn = 2
+    ActiveWindow.ScrollColumn = 1
+    Columns("A:A").ColumnWidth = 14.29
+    Columns("A:A").ColumnWidth = 12
+
+    Columns("D:E").Select
+    Range("E1").Activate
+    Selection.Replace What:=",*", Replacement:="", LookAt:=xlPart, _
+        SearchOrder:=xlByRows, MatchCase:=False, SearchFormat:=False, _
+        ReplaceFormat:=False, FormulaVersion:=xlReplaceFormula2
+        
+    
+    Range("P1").Select
+    ActiveCell.FormulaR1C1 = "location"
+    Range("Q1").Select
+    ActiveCell.FormulaR1C1 = "quantity"
+    Range("R1").Select
+    ActiveCell.FormulaR1C1 = "basic_format"
+    Range("S1").Select
+    ActiveCell.FormulaR1C1 = "label_type"
+    Range("T1").Select
+    ActiveCell.FormulaR1C1 = "sleeve_type"
+    Range("U1").Select
+    ActiveCell.FormulaR1C1 = "with_cover?"
+    Range("V1").Select
+    ActiveCell.FormulaR1C1 = "complete?"
+    Range("W1").Select
+    ActiveCell.FormulaR1C1 = "country"
+    Range("X1").Select
+    ActiveCell.FormulaR1C1 = "year"
+    Range("Y1").Select
+    ActiveCell.FormulaR1C1 = "median_price"
+    Range("Z1").Select
+    ActiveCell.FormulaR1C1 = "style"
+    Range("AA1").Select
+    ActiveCell.FormulaR1C1 = "amaz"
+    Range("AB1").Select
+    ActiveCell.FormulaR1C1 = "feed_product_type"
+    Range("AC1").Select
+    ActiveCell.FormulaR1C1 = "binding"
+    Range("AD1").Select
+    ActiveCell.FormulaR1C1 = "vinyl_record_details"
+    Range("AE1").Select
+    ActiveCell.FormulaR1C1 = "condition_type"
+    Range("AF1").Select
+    ActiveCell.FormulaR1C1 = "shipping_group"
+    Range("AG1").Select
+    ActiveCell.FormulaR1C1 = "product_id"
+    Range("AH1").Select
+    ActiveCell.FormulaR1C1 = "product_id_type"
+    Range("AI1").Select
+    ActiveCell.FormulaR1C1 = "image"
+    Range("AJ1").Select
+    ActiveCell.FormulaR1C1 = "image_url"
+    Range("AK2").Select
+'
+End Sub
